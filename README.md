@@ -16,3 +16,11 @@ Q:有什么用？A:类似于从本地鸡文件下载的小站，也可以自定�
 - 自定义跳转链接
 - 公告栏Markdown格式编写
 - 还要啥功能提Issues就行（
+
+# 怎么使用
+- config - 存放公告文件，Markdown格式<br>
+- list - 存放文件列表，Json格式<br>
+- other - 存放其他页面，可选<br>
+- download - 存放下载子页面，可选<br>
+- image - 存放图片文件<br>
+download里面给了一个windows.html作为示例文件，可自行修改
