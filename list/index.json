@@ -1,0 +1,28 @@
+{
+  "fileList": [
+    {
+      "name": "Windows",
+      "logo": "image/windows.png",
+      "alt": "Windows",
+      "status": "available",
+      "updateDate": "2023-06-08",
+      "link": "./download/windows.html"
+    },
+    {
+      "name": "CentOS",
+      "logo": "image/centos.png",
+      "alt": "CentOS",
+      "status": "available",
+      "updateDate": "2023-06-08",
+      "link": "./download/centos.html"
+    },
+    {
+      "name": "Ubuntu",
+      "logo": "image/ubuntu.png",
+      "alt": "Ubuntu",
+      "status": "available",
+      "updateDate": "2023-06-08",
+      "link": "./download/ubuntu.html"
+    }
+  ]
+}
