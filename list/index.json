@@ -1,28 +1,20 @@
 {
   "fileList": [
     {
-      "name": "Windows",
-      "logo": "image/windows.png",
-      "alt": "Windows",
+      "name": "PC端",
+      "logo": "image/image.png",
+      "alt": "PC端",
       "status": "available",
-      "updateDate": "2023-06-08",
+      "updateDate": "2025-04-03",
       "link": "./download/windows.html"
     },
     {
-      "name": "CentOS",
-      "logo": "image/centos.png",
-      "alt": "CentOS",
+      "name": "手机端",
+      "logo": "image/image.png",
+      "alt": "手机端",
       "status": "available",
-      "updateDate": "2023-06-08",
+      "updateDate": "2025-04-03",
       "link": "./download/centos.html"
-    },
-    {
-      "name": "Ubuntu",
-      "logo": "image/ubuntu.png",
-      "alt": "Ubuntu",
-      "status": "available",
-      "updateDate": "2023-06-08",
-      "link": "./download/ubuntu.html"
     }
   ]
 }
