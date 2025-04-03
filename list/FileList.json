@@ -1,6 +1,7 @@
 {
   "jsonFiles": [
     "list/index.json",
-    "list/windows.json"
+    "list/PC.json",
+    "list/mobile.json"
   ]
 }
