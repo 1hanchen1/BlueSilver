@@ -1,0 +1,29 @@
+{
+  "id": 3,
+  "significant": true,
+  "outdated": false,
+  "minVersion": -1,
+  "maxVersion": -1,
+  "specificLang": [],
+  "title": [
+    {
+      "lang": "en",
+      "text": "About Freedreno"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "关于Freedreno渲染器"
+    }
+  ],
+  "date": "2024.05.03",
+  "content": [
+    {
+      "lang": "en",
+      "text": "Freedreno only works on Snapdragon 710 | 712 | 720G | 730 | 730G | 732G | 750G | 480 | 690 | 765 | 765G | 845 | 850 | 855 | 855+ | 860 | 778G | 865 | 865+ | 888 | 888+"
+    },
+    {
+      "lang": "zh_CN",
+      "text": "Freedreno渲染器只能在骁龙 710 | 712 | 720G | 730 | 730G | 732G | 750G | 480 | 690 | 765 | 765G | 845 | 850 | 855 | 855+ | 860 | 778G | 865 | 865+ | 888 | 888+ 上使用。"
+    }
+  ]
+}

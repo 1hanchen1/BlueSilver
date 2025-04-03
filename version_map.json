@@ -1,0 +1,20 @@
+[
+  {
+    "type": "release",
+    "versionCode": 1202,
+    "versionName": "1.2.0.2",
+    "date": "2025.01.24",
+    "description": [
+      {
+        "lang": "en",
+        "text": "自该版本开始，与之前APK版本再无联系。如果你正在使用整合包请联系原作者进行处理！"
+      },
+      {
+        "lang": "zh_CN",
+        "text": "自该版本开始，与之前APK版本再无联系。如果你正在使用整合包请联系原作者进行处理！"
+      }
+    ],
+    "netdiskUrl": "1htt",
+    "url": "https://icraft.ren:90/error.jpg"
+  }
+]
