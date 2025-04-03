@@ -1,20 +1,20 @@
 {
   "fileList": [
     {
-      "name": "PC端",
-      "logo": "image/image.png",
-      "alt": "PC端",
-      "status": "available",
-      "updateDate": "2025-04-03",
+      "name": "PC端"，
+      "logo": "image/image.png"，
+      "alt": "PC端"，
+      "status": "available"，
+      "updateDate": "2025-04-03"，
       "link": "./download/PC.html"
-    },
+    }，
     {
-      "name": "手机端",
-      "logo": "image/image.png",
-      "alt": "手机端",
-      "status": "available",
-      "updateDate": "2025-04-03",
-      "link": "./download/centos.html"
+      "name": "手机端"，
+      "logo": "image/image.png"，
+      "alt": "手机端"，
+      "status": "available"，
+      "updateDate": "2025-04-03"，
+      "link": "./download/mobile.html"
     }
   ]
 }
